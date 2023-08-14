@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @addaiaamos032
+- 👋 Hi, I’m ADDAI AMOS,Level  100
+- this'Semester Project
   index no:UEB3203222
-  name :Addai Amos
 BSC  information Technology(D.class)
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
